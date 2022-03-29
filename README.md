@@ -1,4 +1,4 @@
-### Cheers! 👋  I'm Evan Charalampidis, a junior web developer. 
+### Cheers! 👋  I'm Evan C., a junior web developer. 
 
 I work as a Student at the Northcoders Bootcamp.
 
