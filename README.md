@@ -1,6 +1,6 @@
-### Cheers! 👋  I'm Evan C., a junior web developer. 
+### Cheers! 👋  I'm Evan, a junior full-stack developer. 
 
-I work as a Student at the Northcoders Bootcamp.
+I graduated from the Northcoders Bootcamp and am in training to become a Full-Stack Developer.
 
 Previously: Engineering/ML background
 
