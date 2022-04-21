@@ -2,7 +2,7 @@
 
 I graduated from the Northcoders Bootcamp and am in training to become a Full-Stack Developer.
 
-More [About <a name="about"></a>](#about-) me
+More [About <a name="about"></a>](#about) me
 
 Previously: Engineering/ML background
 
