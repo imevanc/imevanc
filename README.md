@@ -1,20 +1,25 @@
-### Cheers! 👋  I'm Evan, a junior full-stack developer. 
+<div align="center">
+Cheers! 👋  I'm Evan, a junior full-stack developer. 
 
 I graduated from the Northcoders Bootcamp and am in training to become a Full-Stack Developer.
 
 More [About <a name="about"></a>](#about) me
+  
+<div align="left">
+💻 I am always happy to consider freelance projects in all areas of development. Hit me up if you want to discuss.
 
-Previously: Engineering/ML background
+🌍 I speak English 🇬🇧, Μιλάω Ελληνικά 🇬🇷, Ich kann ein bißchen Detusch sprechen 🇩🇪
 
-I am always happy to consider freelance projects. Hit me up if you want to discuss.
+🐕 Dog dada with passion in training for scent detection & tracking
+  
+</div>
+  
+---
+## Languages and tools I can use:
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html 5"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css 3" /><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node js"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react js"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" /><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest"/><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" alt="materialui"/>
+---
 
-<a href="https://github.com/imevanc/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=imevanc&hide=stars,issues,contribs&show_icons=true&theme=gotham" />
-</a>
-<a href="https://github.com/imevanc/github-readme-stats">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imevanc&theme=gotham" />
-</a>
+</div>
 
 # About <a name="about"></a>
 <details><summary>➡️  ｉｍｅｖａｎc ⬅️</summary><blockquote>
