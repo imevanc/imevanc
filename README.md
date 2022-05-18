@@ -1,17 +1,18 @@
 <div align="center">
+  
 Cheers! 👋  I'm Evan, a junior full-stack developer. 
-
+  
 I graduated from the Northcoders Bootcamp and am in training to become a Full-Stack Developer.
-
+  
 More [About <a name="about"></a>](#about) me
   
 <div align="left">
-💻 I am always happy to consider freelance projects in all areas of development. Hit me up if you want to discuss.
-
-🌍 I speak English 🇬🇧, Μιλάω Ελληνικά 🇬🇷, Ich kann ein bißchen Detusch sprechen 🇩🇪
-
-🐕 Dog dada with passion in training for scent detection & tracking
   
+💻 I am always happy to consider freelance projects in all areas of development. Hit me up if you want to discuss.
+  
+🌍 I speak English 🇬🇧, Μιλάω Ελληνικά 🇬🇷, Ich kann ein bißchen Detusch sprechen 🇩🇪
+  
+🐕 Dog dada with passion in training for scent detection & tracking
 </div>
   
 ---
