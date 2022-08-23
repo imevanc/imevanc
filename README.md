@@ -1,8 +1,8 @@
 <div align="center">
   
-Hey! 👋  I'm Evan, a full-stack developer. 
+Hey! 👋  I'm Evan, a full-stack engineer. 
   
-I graduated from the Northcoders Bootcamp and work as a Software Developer.
+I graduated from the Northcoders Bootcamp and work as a Software Engineer.
   
   
 <div align="left">
