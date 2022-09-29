@@ -9,7 +9,7 @@ I graduated from the Northcoders Bootcamp and work as a Software Engineer.
   
 💻 I am always happy to consider freelance projects in all areas of development. Hit me up if you want to discuss.
   
-🌍 I speak English 🇬🇧, Μιλάω Ελληνικά 🇬🇷, Ich kann ein bißchen Detusch sprechen 🇩🇪
+🌍 I speak English 🇬🇧, Μιλάω Ελληνικά 🇬🇷, Ich kann ein bißchen Deutsch sprechen 🇩🇪
   
 🐕 Dog dada with passion in training for scent detection & tracking
 </div>
