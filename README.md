@@ -7,7 +7,7 @@ I graduated from the Northcoders Bootcamp and work as a Software Engineer.
   
 <div align="left">
   
-💻 I am always happy to consider freelance projects in all areas of development. Hit me up if you want to discuss.
+💻 I am always happy to consider freelance projects in all areas of development. Hit me up if you want to discuss - 📝 [@teamevancodes](https://twitter.com/teamevancodes).
   
 🌍 I speak English 🇬🇧, Μιλάω Ελληνικά 🇬🇷, Ich kann ein bißchen Deutsch sprechen 🇩🇪
   
