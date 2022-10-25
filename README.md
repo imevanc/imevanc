@@ -2,13 +2,14 @@
   
 Hey! 👋  I'm Evan, a full stack engineer. 
   
-I graduated from the Northcoders Bootcamp and work as a Software Engineer.
+I graduated from the Northcoders Bootcamp and work as a Software Engineer. <br/> In my free time, I create content for my YouTube channel - [Team Evan Codes](https://www.youtube.com/channel/UCBN0IU2eFovhsF0kOuvpSkQ/videos)
   
   
 <div align="left">
   
-💻 I am always happy to consider freelance projects in all areas of development. Hit me up if you want to discuss 
-📝 [@teamevancodes](https://twitter.com/teamevancodes)
+💻 I am always happy to consider freelance projects in all areas of development. 
+  
+📝 Hit me up if you want to discuss [@teamevancodes](https://twitter.com/teamevancodes)
   
 🌍 I speak English 🇬🇧, Μιλάω Ελληνικά 🇬🇷, Ich kann ein bißchen Deutsch sprechen 🇩🇪
   
