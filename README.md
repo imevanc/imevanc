@@ -1,9 +1,8 @@
 <div align="center">
   
-Hello, world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> 
-<br/>I'm Evan, a full stack engineer. 
-  
-I graduated from the Northcoders Bootcamp and work as a Software Engineer. <br/> In my free time, I create content for my YouTube channel - [Team Evan Codes](https://www.youtube.com/channel/UCBN0IU2eFovhsF0kOuvpSkQ/videos)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hello world, Evan here. 
+
+I work as a Software Engineer and in my free time <br/> I create content for my YouTube channel - [Team Evan Codes](https://www.youtube.com/channel/UCBN0IU2eFovhsF0kOuvpSkQ/videos)
   
   
 </div>
