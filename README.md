@@ -11,7 +11,7 @@ I work as a Software Engineer and in my free time <br/> I create content for my 
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            <li> 👨🏻‍💻 I'm currently working on my new Next.js web app. 💻</li>
+          <li> 👨🏻‍💻 I'm currently working on my new web app. 💻 <p></p></li>
             <li> 💬 Ask me about React <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
                     width="20" />, JavaScript <img align="center"
@@ -35,7 +35,7 @@ I work as a Software Engineer and in my free time <br/> I create content for my 
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript"/>&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="javascript"/>&nbsp;&nbsp;&nbsp;
-<img width="50"  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="node js"/>&nbsp;&nbsp;&nbsp;
+<img width="50"  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="node js"/>&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react js"/>&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" />&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest"/>&nbsp;&nbsp;&nbsp;
