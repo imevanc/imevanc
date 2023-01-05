@@ -2,7 +2,7 @@
   
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hello world, Evan here. 
 
-I work as a Software Engineer and in my free time <br/> I create content for my YouTube channel - [Team Evan Codes](https://www.youtube.com/channel/UCBN0IU2eFovhsF0kOuvpSkQ/videos)
+I work as a Software Engineer <strong>&&</strong> in my free time <br/> I develop full stack projects <strong>||</strong> create content for my YouTube channel - [Team Evan Codes](https://www.youtube.com/channel/UCBN0IU2eFovhsF0kOuvpSkQ/videos)
   
   
 </div>
