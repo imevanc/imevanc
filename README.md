@@ -24,7 +24,7 @@ I work as a Software Engineer <strong>&&</strong> in my free time <br/> I develo
                     src="https://user-images.githubusercontent.com/96417438/199999441-10245519-1b33-47eb-a35b-34c0129e91ca.gif" width="20" />
                 <a href="https://twitter.com/teamevancodes" target="_blank">@imevanc</a></li>
             <li>🌍 I speak English 🇬🇧, Μιλάω Ελληνικά 🇬🇷, Ich kann ein bißchen Deutsch sprechen 🇩🇪</li>
-            <li>🐕 Dog dada with passion in training for scent detection & tracking</li>
+            <li>🐕 Dog dada with passion for scent training</li>
         </ul>
 </div>
  
