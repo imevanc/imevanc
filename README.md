@@ -43,13 +43,6 @@ I work as a Software Engineer <strong>&&</strong> in my free time <br/> I develo
 </div>
 
 <div align="center">
-  <h2>:octocat: My Stats</h2>
-  <div align="center">
-      <img alt="Evan's Github Stats" height="160"
-          src="https://github-readme-stats.vercel.app/api?username=imevanc&show_icons=true&hide_border=true&theme=dark&count_private=true" />&nbsp;&nbsp;&nbsp;&nbsp;  
-      <img alt="Evan's Github Stats" height="160"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=imevanc&hide=assembly&layout=compact&theme=dark" />
-  </div>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=imevanc&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +" width="130" />
   <br/>
