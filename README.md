@@ -17,7 +17,7 @@ I work as a Software Engineer <strong>and</strong> in my free time <br/> I devel
                     width="20" />, JavaScript <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
                     width="20" />, TypeScript <img align="center" src="https://user-images.githubusercontent.com/96417438/199995998-75471604-7dcd-4edb-8916-9c35f931e92f.png" width="20"</li>
-            <li> 🎓 I'm currently learning Kubernetes <img align="center" src="https://user-images.githubusercontent.com/96417438/199997086-48a653dc-e6ad-491b-8e86-934e5296bab9.png" width="20"/> <strong>&&</strong> GCP <img align="center" src="https://user-images.githubusercontent.com/96417438/199997229-c3d04314-20a5-44af-b2dd-0070db6ea72b.png" width="20"/>  </li>
+            <li> 🎓 I'm currently learning Kubernetes <img align="center" src="https://user-images.githubusercontent.com/96417438/199997086-48a653dc-e6ad-491b-8e86-934e5296bab9.png" width="20"/> and GCP <img align="center" src="https://user-images.githubusercontent.com/96417438/199997229-c3d04314-20a5-44af-b2dd-0070db6ea72b.png" width="20"/>  </li>
             <li>📫 How to reach me: <img align="center"
                     src="https://user-images.githubusercontent.com/96417438/199999441-10245519-1b33-47eb-a35b-34c0129e91ca.gif" width="20" />
                 <a href="https://twitter.com/teamevancodes" target="_blank">@imevanc</a></li>
