@@ -18,9 +18,11 @@ I work as a Software Engineer <strong>and</strong> in my free time <br/> I devel
                     src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
                     width="20" />, TypeScript <img align="center" src="https://user-images.githubusercontent.com/96417438/199995998-75471604-7dcd-4edb-8916-9c35f931e92f.png" width="20"</li>
             <li> 🎓 I'm currently learning Kubernetes <img align="center" src="https://user-images.githubusercontent.com/96417438/199997086-48a653dc-e6ad-491b-8e86-934e5296bab9.png" width="20"/> and GCP <img align="center" src="https://user-images.githubusercontent.com/96417438/199997229-c3d04314-20a5-44af-b2dd-0070db6ea72b.png" width="20"/>  </li>
-            <li>📫 How to reach me: <img align="center"
-                    src="https://user-images.githubusercontent.com/96417438/199999441-10245519-1b33-47eb-a35b-34c0129e91ca.gif" width="20" />
-                <a href="https://twitter.com/teamevancodes" target="_blank">@imevanc</a></li>
+            <li>📫 How to reach me: 
+              <img align="center" src="https://user-images.githubusercontent.com/96417438/223284009-b0e293a2-8ca8-4d55-8f74-6a34ced34baf.png" width="20" /><a href="https://twitter.com/teamevancodes" target="_blank">@imevanc</a>, 
+              <img align="center" src="https://user-images.githubusercontent.com/96417438/223284153-a7a6c1b7-67b4-4d5c-9f52-1b7b13082ab5.png" width="20" /><a href="https://stackoverflow.com/users/21338003/evan" target="_blank">@imevanc</a>,
+              <img align="center" src="https://user-images.githubusercontent.com/96417438/223284614-3aafd533-4806-4d8e-a876-7ef082851edc.png" width="30" /><a href="https://stackoverflow.com/users/21338003/evan](https://dev.to/imevanc)" target="_blank">@imevanc</a>
+            </li>
             <li>🌍 I speak English 🇬🇧, Μιλάω Ελληνικά 🇬🇷, Ich kann ein bißchen Deutsch sprechen 🇩🇪</li>
             <li>🐕 Dog dada with passion for scent training</li>
         </ul>
