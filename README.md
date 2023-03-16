@@ -11,7 +11,7 @@ I work as a Software Engineer <strong>and</strong> in my free time <br/> I devel
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-          <li> 👨🏻‍💻 I'm currently working on my new web app 💻 - <a href="https://pet-pal.vercel.app">Pet Pal</a> && <a href="https://github.com/imevanc/pet-pal">Pet Pal on GitHub</a></li>
+          <li> 👨🏻‍💻 I'm currently working on my new web app 💻 - <a href="https://pet-pal.vercel.app">Pet Pal</a> / <a href="https://github.com/imevanc/pet-pal">Pet Pal on GitHub</a></li>
             <li> 💬 Ask me about React <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
                     width="20" />, JavaScript <img align="center"
