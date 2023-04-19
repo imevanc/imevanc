@@ -3,7 +3,8 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hello world, Evan here. 
 
 I work as a Software Engineer and  <br/>
-  I create content for my YouTube channel - 🔊 [Team Evan Codes](https://www.youtube.com/channel/UCBN0IU2eFovhsF0kOuvpSkQ/videos)
+  I create content for my YouTube channel - 🔊 [Team Evan Codes](https://www.youtube.com/channel/UCBN0IU2eFovhsF0kOuvpSkQ/videos) <br/>
+  I wrote my first [dev.to article](https://dev.to/imevanc/nextjs-aws-s3-upload-3njb), it's a simple Next.js application allowing you to upload photos to an Amazon Web Services S3 storage bucket
 
   
   
