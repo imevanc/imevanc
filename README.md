@@ -37,9 +37,10 @@ I work as a Software Engineer and  <br/>
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript"/>&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="javascript"/>&nbsp;&nbsp;&nbsp;
-<img width="50"  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="node js"/>&nbsp;&nbsp;&nbsp;
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"/>&nbsp;&nbsp;&nbsp;
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="node js"/>&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react js"/>&nbsp;&nbsp;&nbsp;
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="react js"/>&nbsp;&nbsp;&nbsp;
+<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="gcp"/>&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="react js"/>&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" />&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest"/>&nbsp;&nbsp;&nbsp;
