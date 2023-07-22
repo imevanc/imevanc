@@ -1,9 +1,9 @@
 <div align="center">
   
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hello world, Evan here. 
+Hello world, Evan here. 
 
-I work as a Software Engineer and  <br/>
-  I wrote this [dev.to article](https://dev.to/imevanc/nextjs-aws-s3-upload-3njb), it's a simple Next.js application allowing you to upload photos to an Amazon Web Services S3 storage bucket
+I'm a Software Engineer, Outdoor Lover, and I like Photography  <br/><br/><br/>
+I wrote this [dev.to article](https://dev.to/imevanc/nextjs-aws-s3-upload-3njb), it's a simple Next.js application <br/> allowing you to upload photos to an Amazon Web Services S3 storage bucket
 
   
   
