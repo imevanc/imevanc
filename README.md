@@ -2,7 +2,7 @@
   
 Hello world, Evan here. 
 
-I'm a Software Engineer, Outdoor Lover, and I like Photography  <br/><br/><br/>
+I'm a Software Engineer, Outdoor Lover, and Amateur Photographer  <br/><br/><br/>
 I wrote this [dev.to article](https://dev.to/imevanc/nextjs-aws-s3-upload-3njb), it's a simple Next.js application <br/> allowing you to upload photos to an Amazon Web Services S3 storage bucket
 
   
