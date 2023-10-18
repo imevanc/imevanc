@@ -44,14 +44,3 @@ I wrote this [dev.to article](https://dev.to/imevanc/nextjs-aws-s3-upload-3njb),
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" alt="materialui"/>
 </div>
 
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=imevanc&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +" width="130" />
-  <br/>
-  <br/>
-  <button>
-    <a href="https://www.buymeacoffee.com/imevanc" target="_blank">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="200">
-    </a>
-  </button>
-</div>
