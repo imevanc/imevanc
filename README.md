@@ -2,10 +2,6 @@
   
 Hello world, Evan here. 
 
-I wrote this [dev.to article](https://dev.to/imevanc/nextjs-aws-s3-upload-3njb), it's a simple Next.js application <br/> allowing you to upload photos to an Amazon Web Services S3 storage bucket
-
-  
-  
 </div>
 <div align="left">
   <h2><img align="center"
