@@ -19,7 +19,6 @@ Hello world, Evan here.
               <img align="center" src="https://user-images.githubusercontent.com/96417438/223284153-a7a6c1b7-67b4-4d5c-9f52-1b7b13082ab5.png" width="20" /><a href="https://stackoverflow.com/users/21338003/evan" target="_blank">@imevanc</a>,
               <img align="center" src="https://user-images.githubusercontent.com/96417438/223284614-3aafd533-4806-4d8e-a876-7ef082851edc.png" width="30" /><a href="https://dev.to/imevanc" target="_blank">@imevanc</a>
             </li>
-    
         </ul>
 </div>
  
