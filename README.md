@@ -34,7 +34,6 @@ Hello world, Evan here.
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react js"/>&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="gcp"/>&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="react js"/>&nbsp;&nbsp;&nbsp;
-<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgres sql" />&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest"/>&nbsp;&nbsp;&nbsp;
 <img width="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" alt="materialui"/>
 </div>
