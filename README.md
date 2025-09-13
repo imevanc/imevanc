@@ -14,6 +14,6 @@ I love software engineering 💻 and building apps with best practices and moder
 </a>
 <br/>
 <br/>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=imevanc&layout=compact&theme=radical&card_width=320">
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=imevanc&layout=compact&theme=radical&card_width=320">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imevanc&layout=compact&theme=radical&card_width=320" />
 </a>
